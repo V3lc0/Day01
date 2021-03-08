@@ -4,3 +4,4 @@ Shooping list:
 - Bananas;
 - Cherries;
 - Carrots;
+- Strawberries;
